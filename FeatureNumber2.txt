@@ -1,0 +1,3 @@
+FeatureNumber2
+
+HOTFIX FeatureNumber1
